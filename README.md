@@ -1,0 +1,1 @@
+This is the initial setup for the IEX API for stock analysis.
